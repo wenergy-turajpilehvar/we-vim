@@ -10,4 +10,4 @@ We want color highlighting and aliases everywhere.
 It's easy to do yourself or you can use the installer script
 
 ## TLDR
-Hit the [releases](https://gitlab.we.local/turaj.pilehvar/we-vim/-/releases) page and use the latest installer script.
+Hit the [releases](https://github.com/wenergy-turajpilehvar/we-vim/releases/) page and use the latest installer script.
